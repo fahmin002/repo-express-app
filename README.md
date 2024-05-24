@@ -1,8 +1,8 @@
 # repo-express-app
 Project STIMIK repository
 ========================
-open this folder repo on VSCode__
-open your terminal__
-run:__
-npm i__
+open this folder repo on VSCode<br />
+open your terminal<br />
+run:<br />
+npm install<br />
 node index.js
